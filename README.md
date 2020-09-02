@@ -6,7 +6,7 @@
 
 ## Week 1 🚧
 
-Coming Soon...
+1. [Largest Time for Given Digits](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3445/) ➡️ [CPP Solution](Week1/largestTimeFromDigits.cpp)
 
 ## Week 2 🚧
 
@@ -26,9 +26,9 @@ Coming Soon...
 
 ## Other Challenges 💪
 
-* [Leetcode July 2020 Challenge](https://github.com/AkashRajpurohit/leetcode-july-2020-challenge)
+- [Leetcode July 2020 Challenge](https://github.com/AkashRajpurohit/leetcode-july-2020-challenge)
 
-* [Leetcode August 2020 Challenge](https://github.com/AkashRajpurohit/leetcode-august-2020-challenge)
+- [Leetcode August 2020 Challenge](https://github.com/AkashRajpurohit/leetcode-august-2020-challenge)
 
 ## Where to find me? 🌟
 
