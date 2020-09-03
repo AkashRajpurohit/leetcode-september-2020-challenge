@@ -8,6 +8,7 @@
 
 1. [Largest Time for Given Digits](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3445/) ➡️ [CPP Solution](Week1/largestTimeFromDigits.cpp)
 2. [Contains Duplicate III](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3446/) ➡️ [CPP Solution](Week1/containsNearbyAlmostDuplicate.cpp)
+3. [Repeated Substring Pattern](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3447/) ➡️ [CPP Solution](Week1/repeatedSubstringPattern.cpp)
 
 ## Week 2 🚧
 
