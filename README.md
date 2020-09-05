@@ -10,6 +10,7 @@
 2. [Contains Duplicate III](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3446/) ➡️ [CPP Solution](Week1/containsNearbyAlmostDuplicate.cpp)
 3. [Repeated Substring Pattern](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3447/) ➡️ [CPP Solution](Week1/repeatedSubstringPattern.cpp)
 4. [Partition Labels](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3448/) ➡️ [CPP Solution](Week1/partitionLabels.cpp)
+5. [All Elements in Two Binary Search Trees](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3449/) ➡️ [CPP Solution](Week1/getAllElements.cpp)
 
 ## Week 2 🚧
 
