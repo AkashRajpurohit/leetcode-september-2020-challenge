@@ -4,7 +4,7 @@
 
 [Challenge Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
 
-## Week 1 🚧
+## Week 1 ✅
 
 1. [Largest Time for Given Digits](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3445/) ➡️ [CPP Solution](Week1/largestTimeFromDigits.cpp)
 2. [Contains Duplicate III](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3446/) ➡️ [CPP Solution](Week1/containsNearbyAlmostDuplicate.cpp)
@@ -12,6 +12,7 @@
 4. [Partition Labels](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3448/) ➡️ [CPP Solution](Week1/partitionLabels.cpp)
 5. [All Elements in Two Binary Search Trees](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3449/) ➡️ [CPP Solution](Week1/getAllElements.cpp)
 6. [Image Overlap](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3450/) ➡️ [CPP Solution](Week1/largestOverlap.cpp)
+7. [Word Pattern](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3451/) ➡️ [CPP Solution](Week1/wordPattern.cpp)
 
 ## Week 2 🚧
 
