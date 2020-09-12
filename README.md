@@ -19,6 +19,7 @@
 1. [Sum of Root To Leaf Binary Numbers](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3453/) ➡️ [CPP Solution](Week2/sumRootToLeaf.cpp)
 2. [Compare Version Numbers](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3454/) ➡️ [CPP Solution](Week2/compareVersion.cpp)
 3. [Bulls and Cows](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3455/) ➡️ [CPP Solution](Week2/getHint.cpp)
+4. [Maximum Product Subarray](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3456/) ➡️ [CPP Solution](Week2/maxProduct.cpp)
 
 ## Week 3 🚧
 
