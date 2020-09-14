@@ -14,14 +14,15 @@
 6. [Image Overlap](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3450/) ➡️ [CPP Solution](Week1/largestOverlap.cpp)
 7. [Word Pattern](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3451/) ➡️ [CPP Solution](Week1/wordPattern.cpp)
 
-## Week 2 🚧
+## Week 2 ✅
 
 1. [Sum of Root To Leaf Binary Numbers](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3453/) ➡️ [CPP Solution](Week2/sumRootToLeaf.cpp)
 2. [Compare Version Numbers](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3454/) ➡️ [CPP Solution](Week2/compareVersion.cpp)
 3. [Bulls and Cows](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3455/) ➡️ [CPP Solution](Week2/getHint.cpp)
 4. [Maximum Product Subarray](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3456/) ➡️ [CPP Solution](Week2/maxProduct.cpp)
 5. [Combination Sum III](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3457/) ➡️ [CPP Solution](Week2/combinationSum3.cpp)
-6. [Insert Interva](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3457/) ➡️ [CPP Solution](Week2/insert.cpp)
+6. [Insert Interval](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3458/) ➡️ [CPP Solution](Week2/insert.cpp)
+7. [House Robber](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3459/) ➡️ [CPP Solution](Week2/rob.cpp)
 
 ## Week 3 🚧
 
