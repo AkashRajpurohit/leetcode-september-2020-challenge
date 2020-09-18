@@ -28,6 +28,7 @@
 
 1. [Length of Last Word](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3461/) ➡️ [CPP Solution](Week3/lengthOfLastWord.cpp)
 2. [Maximum XOR of Two Numbers in an Array](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3462/) ➡️ [CPP Solution](Week3/findMaximumXOR.cpp)
+3. [Robot Bounded In Circle](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3463/) ➡️ [CPP Solution](Week3/isRobotBounded.cpp)
 
 ## Week 4 🚧
 
