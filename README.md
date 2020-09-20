@@ -30,6 +30,7 @@
 2. [Maximum XOR of Two Numbers in an Array](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3462/) ➡️ [CPP Solution](Week3/findMaximumXOR.cpp)
 3. [Robot Bounded In Circle](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3463/) ➡️ [CPP Solution](Week3/isRobotBounded.cpp)
 4. [Best Time to Buy and Sell Stock](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3464/) ➡️ [CPP Solution](Week3/maxProfit.cpp)
+5. [Sequential Digits](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3465/) ➡️ [CPP Solution](Week3/sequentialDigits.cpp)
 
 ## Week 4 🚧
 
