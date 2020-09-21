@@ -24,7 +24,7 @@
 6. [Insert Interval](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3458/) ➡️ [CPP Solution](Week2/insert.cpp)
 7. [House Robber](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3459/) ➡️ [CPP Solution](Week2/rob.cpp)
 
-## Week 3 🚧
+## Week 3 ✅
 
 1. [Length of Last Word](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3461/) ➡️ [CPP Solution](Week3/lengthOfLastWord.cpp)
 2. [Maximum XOR of Two Numbers in an Array](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3462/) ➡️ [CPP Solution](Week3/findMaximumXOR.cpp)
@@ -32,6 +32,7 @@
 4. [Best Time to Buy and Sell Stock](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3464/) ➡️ [CPP Solution](Week3/maxProfit.cpp)
 5. [Sequential Digits](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3465/) ➡️ [CPP Solution](Week3/sequentialDigits.cpp)
 6. [Unique Paths III](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3466/) ➡️ [CPP Solution](Week3/uniquePathsIII.cpp)
+7. [Car Pooling](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3467/) ➡️ [CPP Solution](Week3/carPooling.cpp)
 
 ## Week 4 🚧
 
