@@ -36,7 +36,7 @@
 
 ## Week 4 🚧
 
-Coming Soon...
+1. [Majority Element II](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3469/) ➡️ [CPP Solution](Week4/majorityElement.cpp)
 
 ## Week 5 🚧
 
