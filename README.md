@@ -39,6 +39,7 @@
 1. [Majority Element II](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3469/) ➡️ [CPP Solution](Week4/majorityElement.cpp)
 2. [Gas Station](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3470/) ➡️ [CPP Solution](Week4/gasStation.cpp)
 3. [Find the Difference](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3471/) ➡️ [CPP Solution](Week4/findTheDifference.cpp)
+4. [Largest Number](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3472/) ➡️ [CPP Solution](Week4/largestNumber.cpp)
 
 ## Week 5 🚧
 
