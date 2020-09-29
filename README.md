@@ -41,6 +41,7 @@
 3. [Find the Difference](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3471/) ➡️ [CPP Solution](Week4/findTheDifference.cpp)
 4. [Largest Number](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3472/) ➡️ [CPP Solution](Week4/largestNumber.cpp)
 5. [Teemo Attacking](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3473/) ➡️ [CPP Solution](Week4/findPoisonedDuration.cpp)
+6. [Evaluate Division](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3473/) ➡️ [CPP Solution](Week4/calcEquation.cpp)
 
 ## Week 5 🚧
 
