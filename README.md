@@ -34,14 +34,15 @@
 6. [Unique Paths III](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3466/) ➡️ [CPP Solution](Week3/uniquePathsIII.cpp)
 7. [Car Pooling](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3467/) ➡️ [CPP Solution](Week3/carPooling.cpp)
 
-## Week 4 🚧
+## Week 4 ✅
 
 1. [Majority Element II](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3469/) ➡️ [CPP Solution](Week4/majorityElement.cpp)
 2. [Gas Station](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3470/) ➡️ [CPP Solution](Week4/gasStation.cpp)
 3. [Find the Difference](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3471/) ➡️ [CPP Solution](Week4/findTheDifference.cpp)
 4. [Largest Number](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3472/) ➡️ [CPP Solution](Week4/largestNumber.cpp)
 5. [Teemo Attacking](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3473/) ➡️ [CPP Solution](Week4/findPoisonedDuration.cpp)
-6. [Evaluate Division](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3473/) ➡️ [CPP Solution](Week4/calcEquation.cpp)
+6. [Evaluate Division](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3474/) ➡️ [CPP Solution](Week4/calcEquation.cpp)
+7. [Subarray Product Less Than K](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3475/) ➡️ [CPP Solution](Week4/numSubarrayProductLessThanK.cpp)
 
 ## Week 5 🚧
 
