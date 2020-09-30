@@ -46,7 +46,7 @@
 
 ## Week 5 🚧
 
-Coming Soon...
+1. [Word Break](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/558/week-5-september-29th-september-30th/3477/) ➡️ [CPP Solution](Week5/wordBreak.cpp)
 
 ## Other Challenges 💪
 
@@ -54,9 +54,11 @@ Coming Soon...
 
 - [Leetcode August 2020 Challenge](https://github.com/AkashRajpurohit/leetcode-august-2020-challenge)
 
+- [Leetcode October 2020 Challenge](https://github.com/AkashRajpurohit/leetcode-october-2020-challenge)
+
 ## Where to find me? 🌟
 
-- [Website](https://akashwho.codes/)
+- [Website](https://akashrajpurohit.cf/)
 - [Linkedin](https://www.linkedin.com/in/AkashRajpurohit)
 - [Instagram](https://www.instagram.com/akashwho.codes)
 - [Twitter](https://www.twitter.com/AkashWhoCodes)
