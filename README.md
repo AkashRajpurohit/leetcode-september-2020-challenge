@@ -44,9 +44,10 @@
 6. [Evaluate Division](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3474/) ➡️ [CPP Solution](Week4/calcEquation.cpp)
 7. [Subarray Product Less Than K](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3475/) ➡️ [CPP Solution](Week4/numSubarrayProductLessThanK.cpp)
 
-## Week 5 🚧
+## Week 5 ✅
 
 1. [Word Break](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/558/week-5-september-29th-september-30th/3477/) ➡️ [CPP Solution](Week5/wordBreak.cpp)
+2. [First Missing Positive](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/558/week-5-september-29th-september-30th/3477/) ➡️ [CPP Solution](Week5/firstMissingPositive.cpp)
 
 ## Other Challenges 💪
 
